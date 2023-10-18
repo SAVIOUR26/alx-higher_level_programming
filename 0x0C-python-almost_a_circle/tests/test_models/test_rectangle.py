@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_rectangle.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Saviour Najuna@ <saviournajuna@gmail.com>
 """Defines unittests for models/rectangle.py.
 
 Unittest classes:
@@ -806,4 +806,3 @@ class TestRectangle_to_dictionary(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
